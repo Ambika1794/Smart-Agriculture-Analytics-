@@ -61,7 +61,7 @@ This page focuses on crop yield and productivity across different regions and cr
 * Crop-wise and region-wise comparisons
 * Interactive filtering using Crop Type and Region
 
-![Crop Productivity & Performance]
+[Crop Productivity & Performance]
 <img width="1315" height="745" alt="Screenshot 2026-08-18 101747" src="https://github.com/user-attachments/assets/01c9a3bd-8073-4486-a6ac-00d552e91be7" />
 
 
@@ -80,7 +80,7 @@ This page analyzes how environmental conditions can influence agricultural produ
 * Rainfall and soil-moisture comparison across regions
 * Temperature and crop-yield relationship
 
-![Environmental Conditions & Impact]
+[Environmental Conditions & Impact]
 <img width="1313" height="749" alt="Screenshot 2026-08-18 101828" src="https://github.com/user-attachments/assets/adbf89a4-3e9d-429b-bb53-681805e72223" />
 
 
@@ -101,7 +101,7 @@ This page evaluates farming methods and their relationship with crop productivit
 
 Interactive filters allow users to analyze specific crop types and regions.
 
-![Farming Practices & Efficiency]
+[Farming Practices & Efficiency]
 <img width="1306" height="732" alt="Screenshot 2026-08-18 101852" src="https://github.com/user-attachments/assets/f28f56e3-0729-40c1-9e6d-0ce58848c6c1" />
 
 
@@ -122,7 +122,7 @@ This page focuses on crop health and potential agricultural risks.
 
 This page helps identify regions and crops that may require closer monitoring.
 
-![Crop Health & Risk Analysis]
+[Crop Health & Risk Analysis]
 <img width="1299" height="735" alt="Screenshot 2026-08-18 101909" src="https://github.com/user-attachments/assets/87059fd4-53cb-4329-8108-86f0c5ba0b10" />
 
 
@@ -187,6 +187,4 @@ The dashboard provides a comprehensive view of **crop productivity, environmenta
 
 
 
-## ⭐ Project
-
-If you find this project useful, feel free to explore the dashboard and give the repository a ⭐.
+.
